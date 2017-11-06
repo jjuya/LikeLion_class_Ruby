@@ -1,3 +1,5 @@
+# gem install httparty
+# gem install nokogiri
 require 'httparty'
 require 'nokogiri'
 

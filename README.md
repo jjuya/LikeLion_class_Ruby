@@ -7,3 +7,4 @@ AI 빅데이터 분석가 양성 과정
     * Ruby 기초
         - 랜덤 함수 : sample.rb
     * Ruby 활용 Scraping : Nokogiri, HTTParty
+    * create file & rename file : File.open, File.rename
