@@ -9,7 +9,7 @@ AI 빅데이터 분석가 양성 과정
     * Ruby 활용 Scraping : Nokogiri, HTTParty
     * create file & rename file : File.open, File.rename
     * 
-- day 2 : Sinatra 입문
+- day 2 : [Sinatra 입문](https://github.com/jjuya/LikeLion_sinatra)
     * Sinatra : http://www.sinatrarb.com/intro-ko.html
     * Sinatra 활용
         - 점심 메뉴 추천 : hash
